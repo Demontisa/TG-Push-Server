@@ -7,7 +7,7 @@
 * Clone 仓库
 
 ```
-git clone https://github.com/WishMelz/TG-SERVE.git
+git clone https://github.com/Demontisa/TG-Push-Server.git
 cd TG-SERVE
 ```
 
